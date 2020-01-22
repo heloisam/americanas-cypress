@@ -22,7 +22,7 @@ cypress\integration > cadastro-spec.js
 
 Page Object:
 cypress\support\pages > login-po.js 
-                      > cadastro-po.js
+cypress\support\pages > cadastro-po.js
 ___
 
 O que consegui executar:
