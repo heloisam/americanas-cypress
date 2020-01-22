@@ -3,8 +3,7 @@ Automação com Cypress v.3.7.0 (https://www.cypress.io/)
 
 Como executar o projeto:
 
-1. Realizar o download do projeto para alguma pasta do seu computador, exemplo: 
-C:\
+1. Realizar o download do projeto para alguma pasta do seu computador, exemplo "C:\" e descompactar o arquivo.
 
 2. Acessar a pasta do projeto:
 C:\Cypress-Americanas-Test
