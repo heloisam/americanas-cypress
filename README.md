@@ -18,10 +18,13 @@ ___
 Organização do projeto:
 
 Spec:
+
 cypress\integration > cadastro-spec.js
 
 Page Object:
+
 cypress\support\pages > login-po.js 
+
 cypress\support\pages > cadastro-po.js
 ___
 
